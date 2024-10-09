@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 text = "-1"
 
 while True :
