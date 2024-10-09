@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 row = 0
 column = 0
 
