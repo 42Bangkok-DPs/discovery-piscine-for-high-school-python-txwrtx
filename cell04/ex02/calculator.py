@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 f_num = int(input("Give me the first number: "))
 s_num = int(input("Give me the second number: "))
 
